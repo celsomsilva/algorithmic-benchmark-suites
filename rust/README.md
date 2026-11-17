@@ -5,7 +5,7 @@
 ---
 
 
-The Algorithmic Benchmark Suite (Rust) repository: [Algorithmic Rust repository](https://github.com/celsomsilva/algorithmic-benchmark-suite-java) 
+The Algorithmic Benchmark Suite (Rust) repository: [Algorithmic Rust repository](https://github.com/celsomsilva/algorithmic-benchmark-suite-rust) 
 
 
 
